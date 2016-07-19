@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3566d18151d6cbd54f4e986204541b9bce4664de">
+        <dex dex="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_cb7ea20d947d906dc34c3d7f923ed03f1c7580cf.jar" />
+    </item>
+    <item
+        jar="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_3787bfc504b553e52e2998d5b40136ab70b477ae.jar" />
+    </item>
+    <item
+        jar="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_efb4e689e9d1bbe37068c08318726c8e1ea0a6f9.jar" />
+    </item>
+    <item
+        jar="/home/erick-king/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_a054b167f25618525a30c418fe6899ed33be2e7f.jar" />
+    </item>
+    <item
+        jar="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82a9306496354815eab8fa691cd6392a6d5db6b6">
+        <dex dex="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/pre-dexed/debug/instant-run_e066d6c03a30c20d7173b8323c723d85cb951c08.jar" />
+    </item>
+    <item
+        jar="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_a73ca1673e2c406e7c7c28c9fdbf06b594fc472b.jar" />
+    </item>
+    <item
+        jar="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_2b4cdd2895f38f02d64d6cbef5dcf4f24ed59720.jar" />
+    </item>
+    <item
+        jar="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/erick-king/AndroidStudioProjects/Lightup/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_d39fac6d1026d0ae194ebdd06f9c0ed74d92a188.jar" />
+    </item>
+
+</items>
