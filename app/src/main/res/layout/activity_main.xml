@@ -13,9 +13,10 @@ android:layout_height="match_parent"
     android:id="@+id/btnSwitch"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:layout_marginTop="100dip"
-    android:src="@drawable/on"
+    android:layout_marginTop="152dp"
+    android:src="@drawable/click_off"
     android:background="@null"
     android:contentDescription="@null"
-    />
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true" />
 </RelativeLayout>
