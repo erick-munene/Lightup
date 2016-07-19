@@ -137,9 +137,9 @@ public class MainActivity extends Activity {
     // will play button toggle sound on flash on / off
     private void playSound(){
         if(isFlashOn){
-            mp = MediaPlayer.create(MainActivity.this, R.raw.Button_Click_Off);
+            mp = MediaPlayer.create(MainActivity.this, R.raw.click_off);
         }else{
-            mp = MediaPlayer.create(MainActivity.this, R.raw.Click_On);
+            mp = MediaPlayer.create(MainActivity.this, R.raw.click_on);
         }
         mp.setOnCompletionListener(new OnCompletionListener() {
 
