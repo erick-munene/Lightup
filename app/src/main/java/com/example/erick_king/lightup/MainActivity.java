@@ -158,9 +158,9 @@ public class MainActivity extends Activity {
      * */
     private void toggleButtonImage(){
         if(isFlashOn){
-            btnSwitch.setImageResource(R.drawable.btn_switch_on);
+            btnSwitch.setImageResource(R.drawable.click_off);
         }else{
-            btnSwitch.setImageResource(R.drawable.btn_switch_off);
+            btnSwitch.setImageResource(R.drawable.click_on);
         }
     }
 
